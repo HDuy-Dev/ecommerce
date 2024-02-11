@@ -1,6 +1,4 @@
-import Image from "next/image";
-
-export default function Home() {
+export default function Page() {
   const status = "pending";
   return (
     <main className="flex min-h-screen flex-col p-6">
